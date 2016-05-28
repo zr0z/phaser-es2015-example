@@ -1,7 +1,6 @@
-# Browser games
-## (the abridged history)
+# Browser games (the abridged history)
 
-From the old webgame in Flash to HTML5, there is a new generation of open source game engines targeting desktop and mobile browsers, such as Pixi.js, PlayCanvas, Phaser.io.
+From the old webgame in Flash to HTML5, there is a new generation of open source game engines targeting desktop and mobile browsers, such as Pixi.js, Phaser.io.
 
 Using ES2015 and a new renderer, the under heavy development Phaser3 engine, now rebranded Lazer, presents a unique opportunity to unleash the creativity of frontend developers and designers.
 
