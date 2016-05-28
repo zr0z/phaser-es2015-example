@@ -1,0 +1,19 @@
+{
+  "name": "phaser-es2015-example",
+  "version": "1.0.0",
+  "description": "A simple example for Phaser using babel-standalone and phaser.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "phaser",
+    "babel"
+  ],
+  "author": "@zr0z",
+  "license": "ISC",
+  "dependencies": {
+    "babel-standalone": "^6.7.7",
+    "phaser": "^2.4.8"
+  }
+}
